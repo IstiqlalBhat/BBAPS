@@ -1,0 +1,35 @@
+﻿2. Wall Quantity Takeoffs & Cost Estimates,,,,,,
+Area,Family and Type,Material Costs,Labor Costs,Total Material Costs,Total Labor Costs,Total Construction Costs
+,,,,,,
+Basic Wall: Concrete 200mm,,,,,,
+45 m²,Basic Wall: Concrete 200mm,4.00,11.00,1935.84,5323.56,7259.40
+11 m²,Basic Wall: Concrete 200mm,4.00,11.00,455.28,1252.01,1707.29
+45 m²,Basic Wall: Concrete 200mm,4.00,11.00,1953.96,5373.40,7327.37
+5 m²,Basic Wall: Concrete 200mm,4.00,11.00,215.65,593.05,808.70
+1 m²,Basic Wall: Concrete 200mm,4.00,11.00,64.40,177.09,241.49
+3 m²,Basic Wall: Concrete 200mm,4.00,11.00,149.61,411.42,561.02
+3 m²,Basic Wall: Concrete 200mm,4.00,11.00,140.46,386.26,526.72
+3 m²,Basic Wall: Concrete 200mm,4.00,11.00,112.08,308.23,420.31
+57 m²,Basic Wall: Concrete 200mm,4.00,11.00,2436.95,6701.61,9138.56
+13 m²,Basic Wall: Concrete 200mm,4.00,11.00,568.33,1562.92,2131.25
+56 m²,Basic Wall: Concrete 200mm,4.00,11.00,2402.50,6606.89,9009.39
+2 m²,Basic Wall: Concrete 200mm,4.00,11.00,93.00,255.75,348.75
+5 m²,Basic Wall: Concrete 200mm,4.00,11.00,204.60,562.65,767.25
+1 m²,Basic Wall: Concrete 200mm,4.00,11.00,62.00,170.50,232.50
+12 m²,Basic Wall: Concrete 200mm,4.00,11.00,533.89,1468.20,2002.09
+0 m²,Basic Wall: Concrete 200mm,4.00,11.00,16.28,44.76,61.03
+Basic Wall: Concrete 200mm: 16,,64.00,176.00,11344.83,31198.29,42543.13
+Basic Wall: Generic - 150mm,,,,,,
+6 m²,Basic Wall: Generic - 150mm,3.00,11.00,177.67,651.45,829.12
+4 m²,Basic Wall: Generic - 150mm,3.00,11.00,138.94,509.44,648.38
+Basic Wall: Generic - 150mm: 2,,6.00,22.00,316.61,1160.89,1477.50
+Basic Wall: Interior - 125mm Partition (1-hr),,,,,,
+9 m²,Basic Wall: Interior - 125mm Partition (1-hr),2.00,11.00,188.26,1035.45,1223.71
+Basic Wall: Interior - 125mm Partition (1-hr): 1,,2.00,11.00,188.26,1035.45,1223.71
+Curtain Wall: _Not Defined,,,,,,
+10 m²,Curtain Wall: _Not Defined,5.00,15.00,549.77,1649.32,2199.09
+11 m²,Curtain Wall: _Not Defined,5.00,15.00,600.63,1801.88,2402.50
+10 m²,Curtain Wall: _Not Defined,5.00,15.00,549.77,1649.32,2199.09
+11 m²,Curtain Wall: _Not Defined,5.00,15.00,600.63,1801.88,2402.50
+Curtain Wall: _Not Defined: 4,,20.00,60.00,2300.80,6902.40,9203.20
+Grand total: 23,,92.00,269.00,14150.50,40297.03,54447.54
